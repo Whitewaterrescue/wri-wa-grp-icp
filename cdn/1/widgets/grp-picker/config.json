@@ -1,0 +1,16 @@
+{
+ "subAreaField": "SubAreaCode",
+ "codeField": "SubAreaCode",
+ "nameField": "Name",
+ "statusField": "PlanStatus",
+ "publishedValue": "Published",
+ "sectorNameField": "ShortName",
+ "showInDevelopment": true,
+ "defaultGrp": "",
+ "urlParam": "grp",
+ "storageKey": "wri.grp-picker.last",
+ "extentPad": 1.1,
+ "subareasLayerSuffix": "WA_subareas",
+ "sectorsLayerSuffix": "WA_sectors",
+ "allLabel": "All Washington GRPs"
+}
