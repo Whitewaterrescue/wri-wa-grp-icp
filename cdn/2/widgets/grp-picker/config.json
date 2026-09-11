@@ -12,5 +12,10 @@
  "extentPad": 1.1,
  "subareasLayerSuffix": "WA_subareas",
  "sectorsLayerSuffix": "WA_sectors",
- "allLabel": "All Washington GRPs"
+ "allLabel": "All Washington GRPs",
+ "compact": false,
+ "overlay": false,
+ "clearOnUnmount": true,
+ "peerTakeover": true,
+ "requireMap": true
 }
