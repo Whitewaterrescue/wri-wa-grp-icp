@@ -951,7 +951,8 @@
         ],
         "speedMph": 35,
         "maxResults": 200,
-        "detourFactor": 1.3
+        "detourFactor": 1.3,
+        "rmEndpoint": "https://script.google.com/macros/s/AKfycbzsxpfqbV7di4yTHRiTr7bg-RwojLuesrLhPoaFVM8foedbzhxMMyC-lPcBPPyLtjtm/exec"
       },
       "useMapWidgetIds": [
         "widget_1"
